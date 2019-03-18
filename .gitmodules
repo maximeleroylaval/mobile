@@ -3,4 +3,7 @@
 	url = https://github.com/maximeleroylaval/TP1_mobile
 [submodule "TP2/TP2"]
 	path = TP2/TP2
-	url = https://github.com/maximeleroylaval/TP2_Mobile
+	url = https://github.com/maximeleroylaval/TP2_mobile
+[submodule "TP3/TP3"]
+	path = TP3/TP3
+	url = https://github.com/maximeleroylaval/TP3_mobile
