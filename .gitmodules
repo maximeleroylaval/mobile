@@ -7,3 +7,6 @@
 [submodule "TP3/TP3"]
 	path = TP3/TP3
 	url = https://github.com/maximeleroylaval/TP3_mobile
+[submodule "MP/MP"]
+	path = MP/MP
+	url = https://github.com/maximeleroylaval/MP_mobile
